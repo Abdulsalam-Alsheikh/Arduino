@@ -5,15 +5,15 @@ This project is a practical application developed for a university project to en
 Components Used
 
 •	Arduino Uno  
-•	Motor Driver Circuit  
+•	Motor Driver Circuit N298L
 •	DC Motor (utilizing components from a disassembled servo motor)  
-•	Variable Resistor (Potentiometer)  
+•	Variable Resistor (Potentiometer)  (utilizing components from a disassembled servo motor)
 •	Gear Chamber (utilized from disassembled servo motor)  
 
 Implementation Details  
 
 Disassembly of Servo Motor:  
-The servo motor was disassembled to extract specific components, including the continuous DC motor, variable resistor, and gear chamber. The internal servo motor controller was removed, and only the essential parts were retained for integration.
+The servo motor was disassembled to extract specific components, including the DC motor, variable resistor, and gear chamber. The internal servo motor controller was removed, and only the essential parts were retained for integration.
 
 Circuit Connection:  
 The circuit connections involve setting up the components as follows:
