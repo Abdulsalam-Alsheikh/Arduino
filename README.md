@@ -31,3 +31,6 @@ The overall circuit configuration ensures a synchronized operation between the D
 Video link of the project on YouTube :
 
 https://youtu.be/TYZzFxdzLUk?si=nMvvifP5XatMQnvQ
+
+![image](https://github.com/Abdulsalam-Alsheikh/Convert-Dc-Motor-To-Servo-Motor-/assets/150949079/79554825-5e15-4157-a9b7-5eb7115d05ce)
+
