@@ -29,9 +29,8 @@ The circuit connections involve setting up the components as follows:
   •	This integration establishes a feedback loop for the PID algorithm.
 
 The overall circuit configuration ensures a synchronized operation between the DC motor, variable resistor, and the Arduino Uno through the motor driver circuit. This setup allows the PID algorithm to receive feedback from the variable resistor, enabling precise control over the motor's position.
-Video link of the project on YouTube :
 
-https://youtu.be/TYZzFxdzLUk?si=nMvvifP5XatMQnvQ
+Watch the project on [YouTube](https://youtu.be/TYZzFxdzLUk?si=nMvvifP5XatMQnvQ)
 
 ![image](https://github.com/Abdulsalam-Alsheikh/Convert-Dc-Motor-To-Servo-Motor-/assets/150949079/79554825-5e15-4157-a9b7-5eb7115d05ce)
 
