@@ -2,7 +2,7 @@
 
 This project is a practical application developed for a university project to ensure understanding and implementation of the Proportional-Integral-Derivative (PID) algorithm. The implementation involves using an Arduino Uno microcontroller and a motor driver circuit to convert a DC motor into a servo motor using the PID algorithm. The project includes a variable resistor (potentiometer) connected to the DC motor shaft through a gear chamber.
 
-Components Used
+### Components Used:
 
 •	Arduino Uno  
 •	Motor Driver Circuit N298L
@@ -10,12 +10,13 @@ Components Used
 •	Variable Resistor (Potentiometer)  (utilizing components from a disassembled servo motor)
 •	Gear Chamber (utilized from disassembled servo motor)  
 
-Implementation Details  
+### Implementation Details:  
 
 Disassembly of Servo Motor:  
 The servo motor was disassembled to extract specific components, including the DC motor, variable resistor, and gear chamber. The internal servo motor controller was removed, and only the essential parts were retained for integration.
 
-Circuit Connection:  
+### Circuit Connection: 
+
 The circuit connections involve setting up the components as follows:
   1.	DC Motor and Motor Driver:  
   •	Connect the DC motor to the motor driver circuit.  
