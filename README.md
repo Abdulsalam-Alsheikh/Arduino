@@ -4,10 +4,10 @@ This project is a practical application developed for a university project to en
 
 ### Components Used:
 
-•	Arduino Uno  
-•	Motor Driver Circuit N298L
-•	DC Motor (utilizing components from a disassembled servo motor)  
-•	Variable Resistor (Potentiometer)  (utilizing components from a disassembled servo motor)
+•	Arduino Uno   
+•	Motor Driver Circuit N298L  
+•	DC Motor (utilizing components from a disassembled servo motor)    
+•	Variable Resistor (Potentiometer)  (utilizing components from a disassembled servo motor)  
 •	Gear Chamber (utilized from disassembled servo motor)  
 
 ### Implementation Details:  
